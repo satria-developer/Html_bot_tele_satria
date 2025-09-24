@@ -14,7 +14,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ====== MASUKKAN TOKEN BOT KAMU DI SINI ======
-BOT_TOKEN = "8449038235:AAHDRaYA_hlgNQGlI4zfC3WLf5s4saXHkWQ"   # ganti dengan token dari @BotFather
+BOT_TOKEN = "ISI TOKEN BOT"   # ganti dengan token dari @BotFather
 
 MAX_INLINE_CHARS = 3800    # batas agar pesan tidak terlalu panjang
 MAX_DOWNLOAD_BYTES = 200_000  # 200 KB max untuk ambil HTML
